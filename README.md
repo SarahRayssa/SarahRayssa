@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'am Sarah Rayssa</h1>
+<h1 align="center">Hi 👋, I'm Sarah Rayssa</h1>
 <h3 align="center">I am an aspiring web developer passionate about building innovative solutions that connect technology with user experience. My goal is to create intuitive and functional interfaces while contributing to impactful projects within dynamic teams.</h3>
 
 - 🔭 Currently studying **a degree in Systems Analysis and Development.**
