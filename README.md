@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-- **Front-end:** HTML, CSS, JavaScript, React  
-- **Back-end:** Node.js, Express  
-- **Banco de dados:** MongoDB, MySQL  
+- **Front-end:** HTML, CSS, JavaScript, React.js  
+- **Back-end:** Node.js, Express, PHP
+- **Banco de dados:** MongoDB, Docker, Postman  
 - **Qualidade & Boas práticas:** QA, Testes Automatizados, Clean Code  
 - **Em aprendizado:** ServiceNow, automação e integrações  
 
